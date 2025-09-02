@@ -1,3 +1,1 @@
-a = "hello world"
-print(a)
-
+hello world
